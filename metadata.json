@@ -1,0 +1,6 @@
+{
+  "name": "HabitOS AI",
+  "description": "An intelligent personal operating system that helps tracking habits, routines, health, mindfulness, and life goals with an AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
